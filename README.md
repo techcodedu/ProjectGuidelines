@@ -37,7 +37,7 @@ The objective of this project is to create an 'Information and Awareness' portal
 
 ### Sprint 6: Final Testing and Deployment
 - Conduct final testing and debugging. Fix any issues that arise.
-- Prepare the website for deployment by optimizing images, minifying CSS and JavaScript, etc.
+- Prepare the website for deployment by optimizing images, minifying CSS and etc.
 - Deploy the website.
 
 ---
